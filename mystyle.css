@@ -1,0 +1,44 @@
+.back{
+	background-image:url("2.jpg");
+}
+
+
+.content{
+	text-align:center;
+	background-color:#097054;
+	padding:5%;
+	margin:6%;
+	margin-left:18%;
+	margin-right:18%;
+	font-size:320%;
+    line-height:200%;
+	color:white;	
+}
+
+.content1{
+	text-align:center;
+	background-color:#097054;
+	padding:5%;
+	margin:6%;
+	margin-left:28%;
+	margin-right:28%;
+	font-size:200%;
+    line-height:200%;
+	color:white;
+	
+	
+}
+
+
+input{
+	line-height:250%;
+	/*width:calc(40% - 10px);*/
+	size:35;
+}
+
+#search{
+	width:10em;
+	height:4em;
+	font-size:40%;
+	size:10%;
+}
