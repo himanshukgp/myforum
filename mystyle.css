@@ -1,18 +1,21 @@
 .back{
-	background-image:url("2.jpg");
+	background-image:url("5.jpg");
+	background-repeat:no-repeat;
+	
 }
 
 
 .content{
 	text-align:center;
-	background-color:#097054;
+	background-color:#666666;
 	padding:5%;
 	margin:6%;
 	margin-left:18%;
 	margin-right:18%;
 	font-size:320%;
     line-height:200%;
-	color:white;	
+	color:white;
+    /*box-shadow: 12px 20px 20px 20px #666666;*/	
 }
 
 .content1{
